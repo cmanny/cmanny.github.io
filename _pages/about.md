@@ -9,4 +9,6 @@ redirect_from:
 ---
 
 Welcome to my homepage. I am a PhD student at the University of Bristol, supervised
-by Raul Santos-Rodriguez and Niall Twomey. My research interests are machine learning.
+by Raul Santos-Rodriguez and Niall Twomey. My research interest is machine intelligence.
+
+Feel free to email me anytime.
