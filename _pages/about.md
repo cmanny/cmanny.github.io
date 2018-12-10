@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage of Callum Mann"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from:
