@@ -4,7 +4,6 @@ title: "Long bio"
 excerpt: "Long bio"
 author_profile: true
 redirect_from:
-  - /bio/
   - /bio.html
 ---
 
