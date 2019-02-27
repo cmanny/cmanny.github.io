@@ -1,6 +1,6 @@
 ---
 title: 'The Mental Health of a PhD'
-date: 2018-12-18
+date: 2019-03-01
 permalink: /posts/mentalphd
 comments: true
 tags:
